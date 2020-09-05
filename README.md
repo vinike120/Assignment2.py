@@ -1,2 +1,2 @@
 # Assignment2.py
-Relocation Invoice program
+quote for relocation in Kanto
